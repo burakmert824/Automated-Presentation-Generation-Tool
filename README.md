@@ -1,4 +1,5 @@
-Project Overview
+Project Overview:
+
 This project aims to automate the creation of PowerPoint presentations for customer reports by capturing dynamic web images and embedding them into slides. Originally developed during my internship at Nokia, the solution leverages screenshots from specific web elements to automate report generation, significantly reducing the time and manual effort required to create presentations.
 
 Due to access restrictions on Nokia's web application, the project was prototyped using weather data from the AccuWeather website. The program captures daily and weekly weather forecasts for Izmit and automatically generates a PowerPoint presentation based on the forecast data. However, the implementation is flexible and can be adapted to gather data from other websites, making it a versatile tool for various use cases.
