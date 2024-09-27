@@ -6,11 +6,8 @@ Due to access restrictions on Nokia's web application, the project was prototype
 
 Features
 Automated Web Data Capture: The program automatically accesses a website, captures specific web elements (e.g., weather forecasts), and generates a PowerPoint presentation.
+
 Customizable and Extensible: The current implementation works with AccuWeather, but the script can be easily modified to extract and use data from any website.
+
 Daily and Weekly Reports: It gathers daily and weekly forecast data for Izmit and embeds it into a cleanly formatted PowerPoint presentation.
-Consistent Deployment: The project is Dockerized to ensure smooth deployment across different environments.
-Getting Started
-Prerequisites
-Python 3.x
-Selenium for web scraping
-PowerPoint generation libraries (e.g., python-pptx)
+
